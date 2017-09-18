@@ -3,6 +3,8 @@ package com.javabasics.selenium;
 /**
  * Created by gaurnitai on 2017-08-24.
  */
+ 
+ // This is just a sample class to test StringBuffer Class
 public class SampleClass {
 
     public static void main(String args[]){
