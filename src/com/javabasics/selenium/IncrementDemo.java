@@ -3,6 +3,8 @@ package com.javabasics.selenium;
 /**
  * Created by gaurnitai on 2017-09-01.
  */
+
+// This is sample class to explain Incerement Operators in java
 public class IncrementDemo {
     public static void main(String[] args) {
         int myNumber, answer;
