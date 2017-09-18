@@ -4,7 +4,7 @@ package com.javabasics.selenium;
  * Created by rajeshwar sharma on 2017-08-30.
  */
 
-// This is sample class related to all the Operators in java
+// This is sample class related to all the Operators in java. It helps to understand with the help of examples
 public class Operators {
 
     int x = 20;
